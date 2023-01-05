@@ -19,3 +19,8 @@ body {
   margin-top: 5rem;
   color: #cbd1d8;
 }
+
+.textAreaCont {
+  display: flex;
+  justify-content: center;
+}
